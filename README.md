@@ -14,3 +14,5 @@ To run the JAR on it's own without modification, run the following in your comma
 where `<maximum number>` is the highest number that the program will reach, and `<maximum file size>` is the largest output file size that the program will handle. If you commit an error on either argument, values will default to the Java *long* Maximum Value. If you have the wrong number of arguments, the program will not run.
 
 If you run this on a supercomputer, I would love to know the highest you got. Maybe you can even reach the Java *long* Maximum Value. Report all issues to the issue tracker. You can also add improvements to optimize the code!
+
+A 100 MB (GitHub maximum file limit) text file of prime numbers have been included for fun.
